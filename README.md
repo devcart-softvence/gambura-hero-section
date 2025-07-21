@@ -2,6 +2,9 @@
 
 ![image1](image1)
 
+<img width="320" height="404" alt="Image (14)" src="https://github.com/user-attachments/assets/8d1882eb-ab31-4f98-a57d-c955e80c35aa" />
+
+
 ## Overview
 The **HeroSlider** section lets you create a visually rich, multi-slide hero area for your Shopify store. Each slide can have its own image, title, description, button, icon, accent color, and responsive visibility controls.
 
