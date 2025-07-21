@@ -39,6 +39,7 @@ The **HeroSlider** section lets you create a visually rich, multi-slide hero are
 - Autoplay automatically cycles through slides (can be paused on hover/focus).
 
 ---
+<img width="1282" height="548" alt="bcfxnb" src="https://github.com/user-attachments/assets/bbe4b42f-eb65-494b-ba97-bde32f21b44e" />
 
 ## Tips
 - Use strong, short headlines for best visual impact.
