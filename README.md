@@ -1,5 +1,7 @@
 # HeroSlider Section – User Manual
 
+![image1](image1)
+
 ## Overview
 The **HeroSlider** section lets you create a visually rich, multi-slide hero area for your Shopify store. Each slide can have its own image, title, description, button, icon, accent color, and responsive visibility controls.
 
